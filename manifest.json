@@ -1,0 +1,11 @@
+{
+    "name": "Taiko PP Calculator",
+    "version": "1.0.0",
+    "description": "A pp calculator for osu!taiko",
+    "manifest_version": 3,
+    "author": "KatK1",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Taiko PP Calculator"
+    }
+}
